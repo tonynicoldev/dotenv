@@ -1,0 +1,8 @@
+###
+GET http://localhost:6000/app
+
+###
+GET http://localhost:5000/all
+
+###
+GET http://localhost:3000/app
